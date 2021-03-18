@@ -13,7 +13,6 @@ I was in high school when first time i exprienced multiplayer game Call of Duty 
 BOOM
 
 ![COD1](https://www.teahub.io/photos/full/55-558595_call-of-duty-black-ops-3-man.jpg)
-loop
 
 ![tim](https://oyster.ignimgs.com/mediawiki/apis.ign.com/call-of-duty-black-ops-3/c/ca/Black-Ops-3_Specialist-Battery.jpg?width=1280)
 
