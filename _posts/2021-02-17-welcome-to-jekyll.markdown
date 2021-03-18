@@ -15,7 +15,7 @@ BOOM
 ![COD1](https://www.teahub.io/photos/full/55-558595_call-of-duty-black-ops-3-man.jpg)
 loop
 
-![tim](C:\Users\rohan\Desktop\lit.PNG)
+![tim](https://unsplash.com/photos/VxIoL-uBKkM)
 
 
 {% highlight ruby %}
