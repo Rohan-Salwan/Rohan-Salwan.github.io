@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About
+title: OYE Jatin Kdi Vich Puvaya e
 permalink: /about/
 ---
 
